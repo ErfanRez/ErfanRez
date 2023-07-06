@@ -1,6 +1,6 @@
 # ErfanRz
 # 💫 About Me:
-Passionate junior full-stack developer with a drive to learn and grow. Proficient in front-end technologies such as HTML, CSS, and JavaScript, with experience in frameworks like React and Angular. Skilled in back-end development using Node.js and Express, and familiar with databases like MongoDB and SQL. Committed to writing clean, efficient code and collaborating in agile development environments. Eager to contribute to innovative projects and expand my skill set alongside a supportive team. Open to new opportunities and challenges in the world of web development.🌱 I’m currently learning
+Passionate junior full-stack developer with a drive to learn and grow. Proficient in front-end technologies such as HTML, CSS, and JavaScript, with experience in frameworks like React and Angular. Skilled in back-end development using Node.js and Express, and familiar with databases like MongoDB and SQL. Committed to writing clean, efficient code and collaborating in agile development environments. I am eager to contribute to innovative projects and expand my skill set alongside a supportive team. Open to new opportunities and challenges in the world of web development.🌱 I’m currently learning
 
 
 ## 🌐 Socials:
