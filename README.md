@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erfan Rezaei</h1>
-<h3 align="center">Passionate full-stack developer with a drive to learn and grow. Proficient in front-end technologies such as HTML, CSS, and JavaScript, with experience in frameworks like React and Angular.
-Skilled in back-end development using Node.js and Express, and familiar with databases like MongoDB and SQL.
-Committed to writing clean, efficient code and collaborating in agile development environments. I am eager to contribute to innovative projects and expand my skill set alongside a supportive team. Open to new opportunities and challenges in the world of web development.
-🌱 I’m currently learning Back-End</h3>
+<h3 align="center">Passionate full-stack developer with a drive to learn and grow. Proficient in front-end technologies such as HTML, CSS, and JavaScript, with experience in frameworks like React and Angular.<br>Skilled in back-end development using Node.js and Express, and familiar with databases like MongoDB and SQL.<br>Committed to writing clean, efficient code and collaborating in agile development environments. I am eager to contribute to innovative projects and expand my skill set alongside a supportive team. Open to new opportunities and challenges in the world of web development.<br>🌱 I’m currently learning Back-End</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erfanrez&label=Profile%20views&color=0e75b6&style=flat" alt="erfanrez" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erfanrez" alt="erfanrez" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
