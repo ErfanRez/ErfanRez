@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Erfan</h1>
+Hi 👋, I'm Erfan
 <h3 align="center">Passionate full-stack web developer with a drive to learn and grow. Proficient in front-end technologies such as HTML, CSS, and JavaScript, with experience in frameworks like React.<br>Skilled in back-end development using Node.js and Express, and familiar with databases like MongoDB and SQL databases.<br>Committed to writing clean, efficient code and collaborating in agile development environments. I am eager to contribute to innovative projects and expand my skill set alongside a supportive team. Open to new opportunities and challenges in the world of web development.<br>🌱 I’m currently practicing Back-End.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erfanrez&label=Profile%20views&color=0e75b6&style=flat" alt="erfanrez" /> </p>
