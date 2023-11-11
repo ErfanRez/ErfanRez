@@ -1,5 +1,5 @@
 # Hi 👋, I'm Erfan
-<br>Passionate full-stack web developer with a drive to learn and grow.<br> Proficient in front-end technologies such as HTML, CSS, and JavaScript, with experience in frameworks like React.<br>Skilled in back-end development using Node.js and Express, and familiar with databases like MongoDB and SQL databases.<br>Committed to writing clean, efficient code and collaborating in agile development environments.<br>I am eager to contribute to innovative projects and expand my skill set alongside a supportive team.<br>Open to new opportunities and challenges in the world of web development.<br>🌱 I’m currently practicing back-end.
+<br>Passionate full-stack web developer with a drive to learn and grow.<br> Proficient in front-end technologies such as HTML, CSS, and JavaScript, with experience in frameworks like React.<br>Skilled in back-end development using Node.js and Express, and familiar with databases like MongoDB and SQL databases.<br>Committed to writing clean, efficient code and collaborating in agile development environments.<br>I am eager to contribute to innovative projects and expand my skill set alongside a supportive team.<br>Open to new opportunities and challenges in the world of web development.<br>🌱 I’m currently practicing full-stack.
 
 
 <h3 align="left">Connect with me:</h3>
