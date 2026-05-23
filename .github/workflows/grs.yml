@@ -15,9 +15,9 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}theme=dark&hide_border=false&hide=css,ejs,handlebars,pug,powershell,dockerfile&show_icons=true&include_all_commits=true&count_private=true&locale=en&layout=compact
+          options: username=erfanrez&theme=dark&hide_border=false&hide=css,ejs,handlebars,pug,powershell,dockerfile&show_icons=true&include_all_commits=true&count_private=true&locale=en&layout=compact
           path: profile/top-langs.svg
-          token: ${{ secrets.PAT_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
         run: |
